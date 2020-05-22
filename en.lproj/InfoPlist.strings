@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  
+
+  Created by jun on 2018/07/14.
+  
+*/
+CFBundleDisplayName = "Check Photo";
+NSCameraUsageDescription = "Please allow the application to scan using the camera";

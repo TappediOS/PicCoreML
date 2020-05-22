@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  
+
+  Created by jun on 2018/07/14.
+  
+*/
+
+CFBundleDisplayName = "写真で確認";
+NSCameraUsageDescription = "撮影した写真を解析するためにカメラにアクセスします";

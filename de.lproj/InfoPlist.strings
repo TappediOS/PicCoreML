@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  
+
+  Created by jun on 2018/07/14.
+  
+*/
+
+CFBundleDisplayName = "Überprüfen Sie mit Fotos";
+NSCameraUsageDescription = "Bitte erlauben Sie der Anwendung, mit der Kamera zu scannen";

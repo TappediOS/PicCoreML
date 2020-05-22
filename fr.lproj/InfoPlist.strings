@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  
+
+  Created by jun on 2018/07/14.
+  
+*/
+
+CFBundleDisplayName = "Vérifiez avec des photos";
+NSCameraUsageDescription = "Veuillez autoriser l'application à numériser à l'aide de la caméra";

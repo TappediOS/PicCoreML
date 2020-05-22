@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  
+
+  Created by jun on 2018/07/14.
+  
+*/
+
+CFBundleDisplayName = "检查照片";
+NSCameraUsageDescription = "请允许应用程序使用相机进行扫描";
